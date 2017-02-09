@@ -1,0 +1,19 @@
+!data "The lazy dog\nsleeps in the yard."
+.*lazy.*
+[A-Z]
+[a-z]
+[a-z]*
+[A-Z]*
+[A-Z]
+lazy
+d
+g
+y
+p
+i
+cucu
+d
+lazy
+laz.
+.quit
+.exit

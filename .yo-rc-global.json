@@ -1,0 +1,8 @@
+{
+  "generator-electron:1.20.0": {
+    "promptValues": {
+      "githubUsername": "CraigglesO",
+      "website": "http://craiggleso.github.io"
+    }
+  }
+}
